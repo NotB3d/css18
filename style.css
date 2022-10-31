@@ -1,0 +1,18 @@
+div {
+    background-color: antiquewhite;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+h1{clear:both;}
+.color_red{background-color: red;float:left}.color_red2,.color_red3{background-color: red;}
+.color_green{background-color: green;float:left}.color_green2,.color_green3{background-color: green;}
+.color_blue{background-color: blue;float:left   }.color_blue2,.color_blue3{background-color: blue;}
+.color_pink{background-color: pink;}
+.color_bluesky{background-color: skyblue;}
+.color_yellow{background-color: yellow;}
