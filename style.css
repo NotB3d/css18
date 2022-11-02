@@ -3,6 +3,7 @@ div {
     width: 100px;
     height: 100px;
     margin-right: 20px;
+    float: left;
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -33,10 +34,6 @@ p {
     position: relative;
     right: 10px;
     top: 25px;
-}
-
-div {
-    float: left;
 }
 
 .color_red {
